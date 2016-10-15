@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/OSGi%Minimum-1.2"/>
+	<classpathentry kind="lib" path="E:/Static Web App/Jar/jarjdbc mam/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Static Web App/Jar/jarjdbc mam/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/Static Web App/Jar/jarjdbc mam/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="E:/Static Web App/Jar/jarjdbc mam/spring-asm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Static Web App/Jar/jarjdbc mam/spring-beans-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Static Web App/Jar/jarjdbc mam/spring-context-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Static Web App/Jar/jarjdbc mam/spring-core-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Static Web App/Jar/jarjdbc mam/spring-expression-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Static Web App/Jar/jarjdbc mam/spring-jdbc.jar"/>
+	<classpathentry kind="lib" path="E:/Static Web App/Jar/jarjdbc mam/spring-tx.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
